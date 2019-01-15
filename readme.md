@@ -4,7 +4,9 @@ Provides an alternative to traditional hormonal birth-control and IUDs through u
 
 ## Demo 11/02/2018
 
-[![Alt text](https://img.youtube.com/vi/5V8cQv1CaPU/0.jpg)](https://youtu.be/5V8cQv1CaPU)
+Tempo Site Link: http://tempo-oi.surge.sh/
+
+Demo Video: https://youtu.be/5V8cQv1CaPU
 
 ## Installing
 
